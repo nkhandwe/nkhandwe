@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing andorid apps and wordpress web apps.
 - 🌱 I’m currently learning react native.
 - 💞️ I’m looking to collaborate on android projects
-- 📫 How to reach me [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1)
+- 📫 How to reach me [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1)
 
 <!---
 nkhandwe/nkhandwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
