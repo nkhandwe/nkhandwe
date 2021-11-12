@@ -23,7 +23,7 @@
 - [Ameshh](https://ameshh.com/) - WordPress Development. </br>
 - [Anytime Grocery](https://anytimegrocery.in/) - Laravel Development. </br>
 - [Eazy Grocer](https://eazygrocer.in/) - Laravel Development. </br>
-- [Defaulter Satya SMM ](https://defaultersatyasmm.online/) - Laravel SSM (Social Media Panel) Script Development. </br>
+- [Defaulter Satya SMM ](https://defaultersatyasmm.online/) - Laravel SMM (Social Media Marketing Panel) Script Development. </br>
 - [IFS Code Find ](https://ifscodefind.in/) - Bank IFSC Code Finder PHP Development. </br>
 
 
