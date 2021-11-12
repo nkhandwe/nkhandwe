@@ -25,6 +25,7 @@
 - [Eazy Grocer](https://eazygrocer.in/) - Laravel Development. </br>
 - [Defaulter Satya SMM ](https://defaultersatyasmm.online/) - Laravel SMM (Social Media Marketing Panel) Script Development. </br>
 - [IFS Code Find ](https://ifscodefind.in/) - Bank IFSC Code Finder PHP Development. </br>
+- [Saqlaini Mart](https://saqlainimart.in/) -  Laravel Development. </br>
 
 
 <h2>Recent Android Projects </h2>
@@ -39,6 +40,7 @@
 - [Photo Recover App For Android](https://play.google.com/store/apps/details?id=com.uniquedevelopers.recoverphotos) - Android App With Java.  </br>
 - [Unique WallSplash Pro](https://play.google.com/store/apps/details?id=wallsplash.droidloverx.com) - Android App With Java & Unsplash API.  </br>
 - [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br>
+- [Saqlaini Mart Android App](https://play.google.com/store/apps/details?id=saqlainimart.user.shop)- Android App With PHP Rest API. </br>
 
 
  
