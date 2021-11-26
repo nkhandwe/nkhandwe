@@ -42,28 +42,13 @@
 - [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br>
 - [Saqlaini Mart Android App](https://play.google.com/store/apps/details?id=saqlainimart.user.shop)- Android App With PHP Rest API. </br>
 
-<h2>Profile</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
+
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>Profile2</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=github-readme-stats)](https://github.com/nkhandwe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&exclude_repo=github-readme-stats,nkhandwe.github.io)](https://github.com/nkhandwe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&hide=javascript,html)](https://github.com/nkhandwe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&langs_count=8)](https://github.com/nkhandwe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&layout=compact)](https://github.com/nkhandwe/github-readme-stats)
-
-<h2>Walktime</h2>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nkhandwe)](https://github.com/nkhandwe/github-readme-stats)
-
-<a href="https://github.com/nkhandwe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/nkhandwe/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=convoychat" />
-</a>
 
 
 
