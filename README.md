@@ -43,11 +43,8 @@
 - [Saqlaini Mart Android App](https://play.google.com/store/apps/details?id=saqlainimart.user.shop)- Android App With PHP Rest API. </br>
 
 <h2>Profile</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
+
 
 <h2>Profile2</h2>
 
