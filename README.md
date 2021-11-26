@@ -1,3 +1,4 @@
+
 <!-- 
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m - Narendra Khandwe
 
@@ -63,40 +64,55 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/nkhandwe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a></p>
   
 
-
-- 🎓 Complited M. CA in Master's Computer Applications [(MCA)](https://www.rgpv.ac.in/) at [RGPV University](hhttps://www.rgpv.ac.in/)
+- 🎓 Complited Master's Degree in Computer Applications [(MCA)](https://www.rgpv.ac.in/) at [RGPV University](hhttps://www.rgpv.ac.in/)
+- 👋 I’m Wordpress Developer with 10 years of experience need service contact.
+- 👀 I’m interested in developing Andorid Apps, PHP, React Native, Laravel, & WordPress Website.
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m looking to collaborate on Android Projects.
 - 👷‍♂️ I’m working on React Native Develpment
-- 🌱 Currently learning everything
-- 🔭 Looking for help with Start-Ups
-- 💬 Ask me about Python
-- 📫 Mail me: [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com)
+- 💬 Ask me about React Native
 - ⚡ Fun fact: I'm a coffee freak 
+- 📫 How to reach me  [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1). 
 - 🌐 Web: [Narendra Khandwe](http://nkhandwe.com)
 <!-- - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf) -->
+
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:nkhandwe@gmail.com.com)](mailto:nkhandwe@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-narendrakhandwe-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nkhandwe/)](https://www.linkedin.com/in/nkhandwe/)
-[![Instagram Badge](https://img.shields.io/badge/-i_m_nkhandwe-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/i_m_nkhnadwe/)](https://instagram.com/i_m_nkhandwe)
+[![Instagram Badge](https://img.shields.io/badge/-i_m_nkhandwe-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/i_m_nkhandwe/)](https://instagram.com/i_m_nkhandwe)
 [![Facebook Badge](https://img.shields.io/badge/-Narendra-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/nkhandwe86/)](https://www.facebook.com/nkhandwe86/)
+[![WhatsApp Badge](https://img.shields.io/badge/-Narendra-blue?logo=Whatsapp&logoColor=white&link=https://wa.me/message/NSAUJ5OHCRA6L1)](https://wa.me/message/NSAUJ5OHCRA6L1)
 [![Reddit](https://img.shields.io/badge/@nkhandwe-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/nkhandwe)
+[![Skype](https://img.shields.io/badge/-live:nktech6324-blue?logo=skype&logoColor=white&link=live:nktech6324)](live:nktech6324)
 [![Twitter](https://img.shields.io/badge/@narendrakhandwe-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/narendrakhandwe)
 [![Discord Badge](https://img.shields.io/badge/-nkhandwe-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/nkhandwe/)](https://discordapp.com/users/nkhandwe/)
+
 <!-- [![Spotify Badge](https://img.shields.io/badge/-nkhandwe-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
 [![Google Meet](https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/ovz-rnhu-wsa) -->
 
 
 ### ⚡ Languages and Frameworks:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![Android](https://img.shields.io/badge/-Android-teal?logo=android)](#)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-Pink?logo=kotlin)](#)
+[![React Native](https://img.shields.io/badge/-React%20Native-teal?logo=react)](#)
+[![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter)](#)
+[![IONIC](https://img.shields.io/badge/-Ionic-white?logo=ionic)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-white?logo=PHP)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-white?logo=laravel)](#)
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-white?logo=CodeIgniter)](#)
+
+
+
+
 <!-- style=flat-square& -->
 
 ### 🛠 Software and tools:
@@ -130,6 +146,33 @@
   <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31a8fe.svg?logo=adobephotoshop&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
 </p>
+
+### 🌐 Recent Website Projects:
+
+- [Unique Developers](https://uniquedevelopers.online/)- WordPress Development. </br>
+- [Yummy Curry](https://yummy-curry.com/) - WordPress Development. </br>
+- [Cash Loan Offer](https://cashloanoffer.in/) - WordPress Development. </br>
+- [Uzi Accounts ](https://uziaccounts.com/) - Wordpress Development. </br>
+- [Kracking Deals ](https://krackingdeals.com/) - WordPress Development With Woo Commerce Dropshipping Store.</br>
+- [Ameshh](https://ameshh.com/) - WordPress Development. </br>
+- [Anytime Grocery](https://anytimegrocery.in/) - Laravel Development. </br>
+- [Eazy Grocer](https://eazygrocer.in/) - Laravel Development. </br>
+- [Defaulter Satya SMM ](https://defaultersatyasmm.online/) - Laravel SMM (Social Media Marketing Panel) Script Development. </br>
+- [IFS Code Find ](https://ifscodefind.in/) - Bank IFSC Code Finder PHP Development. </br>
+- [Saqlaini Mart](https://saqlainimart.in/) -  Laravel Development. </br>
+
+### ⚡ Recent Android Projects:
+
+- [Anytime Grocery Android App](https://play.google.com/store/apps/details?id=com.anytimegrocery.shop)- Android App With PHP Rest API. </br>
+- [Health &amp; Fitness 30 Days Fitness Challenge](https://play.google.com/store/apps/details?id=com.nktech.healthmanager) - Android App With Java. </br>
+- [Pro Video Editor](https://play.google.com/store/apps/details?id=com.nktech.allinonevideoeditor) - Android App With Java. </br>
+- [Share Droid](https://play.google.com/store/apps/details?id=com.shareit.uniquedevelopers) - Android App With Java. </br>
+- [Device Info ](https://play.google.com/store/apps/details?id=com.droidloverx.deviceinfo) - Android App With Java. </br>
+- [Yummy Curry](https://play.google.com/store/apps/details?id=com.yummy.curry) - Android App With Java.  </br>
+- [Photo Recover App For Android](https://play.google.com/store/apps/details?id=com.uniquedevelopers.recoverphotos) - Android App With Java.  </br>
+- [Unique WallSplash Pro](https://play.google.com/store/apps/details?id=wallsplash.droidloverx.com) - Android App With Java & Unsplash API.  </br>
+- [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br>
+- [Saqlaini Mart Android App](https://play.google.com/store/apps/details?id=saqlainimart.user.shop)- Android App With PHP Rest API. </br>
 
 ## 💻 GitHub Stats
 <p align="center">
@@ -166,4 +209,6 @@
 <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=nkhandwe"></h3>
 <a href="https://buymeacoffee.com/nkhandwe"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <img align="right" src="https://gpvc.arturio.dev/nkhandwe">
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/sponsors/nkhandwe" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @nkhandwe on GitHub">Sponsor</a>
 
