@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on Android Projects.
 - 📫 How to reach me  [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1).  
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
+
 
 <h2>Recent Website Projects </h2>
 
@@ -43,9 +45,8 @@
 - [Saqlaini Mart Android App](https://play.google.com/store/apps/details?id=saqlainimart.user.shop)- Android App With PHP Rest API. </br>
 
 
-![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=github-readme-stats)](https://github.com/nkhandwe/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=github-readme-stats)](https://github.com/nkhandwe/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -57,7 +58,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nkhandwe&repo=convoychat" />
 </a>
-
+ -->
 
 
 
