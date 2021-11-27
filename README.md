@@ -47,7 +47,7 @@
 
 
 <p align="right">
-  <a href="https://wakatime.com/@nkhandwe"><img alt="" src="https://wakatime.com/badge/user/d2d1b7ff-6f82-4abb-8592-fd7cfc351d22.svg"></a>
+  <a href="https://wakatime.com/@01868968-3700-40cb-98e4-602975b8b133"><img alt="" src="https://wakatime.com/badge/user/01868968-3700-40cb-98e4-602975b8b133.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/nkhandwe"></a>
 </p>
 <h3 align="center">
@@ -210,5 +210,5 @@
 <a href="https://buymeacoffee.com/nkhandwe"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <img align="right" src="https://gpvc.arturio.dev/nkhandwe">
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/nkhandwe" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @nkhandwe on GitHub">Sponsor</a>
+<!-- <a class="github-button" href="https://github.com/sponsors/nkhandwe" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @nkhandwe on GitHub">Sponsor</a> -->
 
