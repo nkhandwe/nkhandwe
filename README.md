@@ -1,6 +1,6 @@
 
-<!-- 
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m - Narendra Khandwe
+
+<!-- ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m - Narendra Khandwe
 
 
 <h2> About Me </h2>
@@ -31,7 +31,7 @@
 - [Share Droid](https://play.google.com/store/apps/details?id=com.shareit.uniquedevelopers) - Android App With Java. </br>
 - [Device Info ](https://play.google.com/store/apps/details?id=com.droidloverx.deviceinfo) - Android App With Java. </br>
 - [Photo Recover App For Android](https://play.google.com/store/apps/details?id=com.uniquedevelopers.recoverphotos) - Android App With Java.  </br>
-- [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br>
+- [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br> -->
 
 
 <p align="right">
