@@ -1,39 +1,3 @@
-
-
-<!-- ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m - Narendra Khandwe
-
-
-<h2> About Me </h2>
-
-
-- 👋 I’m Wordpress Developer with 10 years of experience need service contact.
-- 👀 I’m interested in developing Andorid Apps(Flutter, Java & React Native), PHP, React Js, Laravel, & wordpress apps.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Android Projects.
-- 📫 How to reach me  [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1).  
-![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
-
-
-<h2>Recent Website Projects </h2>
-
-
-
-- [Unique Developers](https://uniquedevelopers.online/)- WordPress Development. </br>
-- [Unique Developers](https://uniquedev.in/)- Laravel Development. </br>
-
-
-<h2>Recent Android Projects </h2>
-
-
-
-- [Health &amp; Fitness 30 Days Fitness Challenge](https://play.google.com/store/apps/details?id=com.nktech.healthmanager) - Android App With Java. </br>
-- [Pro Video Editor](https://play.google.com/store/apps/details?id=com.nktech.allinonevideoeditor) - Android App With Java. </br>
-- [Share Droid](https://play.google.com/store/apps/details?id=com.shareit.uniquedevelopers) - Android App With Java. </br>
-- [Device Info ](https://play.google.com/store/apps/details?id=com.droidloverx.deviceinfo) - Android App With Java. </br>
-- [Photo Recover App For Android](https://play.google.com/store/apps/details?id=com.uniquedevelopers.recoverphotos) - Android App With Java.  </br>
-- [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br> -->
-
-
 <p align="right">
   <a href="https://wakatime.com/@01868968-3700-40cb-98e4-602975b8b133"><img alt="" src="https://wakatime.com/badge/user/01868968-3700-40cb-98e4-602975b8b133.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/nkhandwe"></a>
@@ -57,7 +21,7 @@
 - 👀 I’m interested in developing Andorid Apps, PHP, React Native, Laravel, & WordPress Website.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on Android Projects.
-- 👷‍♂️ I’m working on React Native Develpment
+- 👷‍♂️ I’m working on PHP Laravel Develpment
 - 💬 Ask me about Flutter & Laravel
 - ⚡ Fun fact: I'm a coffee freak 
 - 📫 How to reach me  [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1). 
