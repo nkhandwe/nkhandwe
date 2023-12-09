@@ -45,25 +45,17 @@
 
 
 ### ⚡ Languages and Frameworks:
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-white?logo=laravel)](#)
+[![PHP](https://img.shields.io/badge/-PHP-white?logo=PHP)](#)
 [![Android](https://img.shields.io/badge/-Android-teal?logo=android)](#)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-Pink?logo=kotlin)](#)
-[![React Native](https://img.shields.io/badge/-React%20Native-teal?logo=react)](#)
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter)](#)
-[![IONIC](https://img.shields.io/badge/-Ionic-white?logo=ionic)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#)
-[![PHP](https://img.shields.io/badge/-PHP-white?logo=PHP)](#)
-[![Laravel](https://img.shields.io/badge/-Laravel-white?logo=laravel)](#)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-white?logo=CodeIgniter)](#)
-
-
-
 
 <!-- style=flat-square& -->
 
@@ -139,25 +131,6 @@
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=nkhandwe&hide_border=true&theme=dark"></a></p>
 </details>
 
-<details>	
-  <summary><b>&#x1f4c8; Github activity graph</b></summary>
-  <!-- Github activity graph -->
-<a href="#"><img alt="Narendra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nkhandwe&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
-</details>
-<!-- &hide=other -->
-<!-- <details>	
-  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
-  <p align="center">
-    <a href="#"><img src="https://wakatime.com/share/@nkhandwe/22d75d08-ab04-4824-a3da-c83a932f8603.svg"></a>
-  <p align="center"><i> 30 Aug, 2021 - Today</i></p>
-  </p>
-</details> -->
-<details>	
-  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
-  <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nkhandwe&show_private=true&theme=dark&hide=other,bux,tutorial%20videos&layout=compact&hide_border=true"></a>
-  </p>
-</details>
 <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=nkhandwe"></h3>
 <a href="https://buymeacoffee.com/nkhandwe"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <img align="right" src="https://gpvc.arturio.dev/nkhandwe">
