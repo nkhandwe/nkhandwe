@@ -25,7 +25,7 @@
 - 💬 Ask me about Flutter & Laravel
 - ⚡ Fun fact: I'm a coffee freak 
 - 📫 How to reach me  [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1). 
-- 🌐 Web: [Narendra Khandwe](http://nkhandwe.com)
+- 🌐 Web: [Narendra Khandwe](http://narendrakhandwe.com)
 <!-- - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf) -->
 
 ### 🔗 Connect with me:
