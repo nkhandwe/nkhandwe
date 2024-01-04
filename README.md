@@ -18,13 +18,13 @@
 
 - 🎓 Complited Master's Degree in Computer Applications [(MCA)](https://www.rgpv.ac.in/) at [RGPV University](hhttps://www.rgpv.ac.in/)
 - 👋 I’m Wordpress Developer with 10 years of experience need service contact.
-- 👀 I’m interested in developing Andorid Apps, PHP, React Native, Laravel, & WordPress Website.
+- 👀 I’m interested in developing Andorid Apps, PHP, Flutter, React Native, Laravel, & WordPress Website.
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on Android Projects.
+- 💞️ I’m looking to collaborate on Laravel Projects.
 - 👷‍♂️ I’m working on PHP Laravel Develpment
 - 💬 Ask me about Flutter & Laravel
 - ⚡ Fun fact: I'm a coffee freak 
-- 📫 How to reach me  [nkhandwe@gmail.com](mailto:nkhandwe@gmail.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1). 
+- 📫 How to reach me  [mailto@narendrakhandwe.com](mailto:mailto@narendrakhandwe.com) or  [Whatsapp](https://wa.me/message/NSAUJ5OHCRA6L1). 
 - 🌐 Web: [Narendra Khandwe](http://narendrakhandwe.com)
 <!-- - 📃 Checkout my [resume](https://github.com/Mo-Shakib/Mo-Shakib/blob/main/Resume_300821.pdf) -->
 
@@ -40,8 +40,6 @@
 [![Twitter](https://img.shields.io/badge/@narendrakhandwe-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/narendrakhandwe)
 [![Discord Badge](https://img.shields.io/badge/-nkhandwe-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/nkhandwe/)](https://discordapp.com/users/nkhandwe/)
 
-<!-- [![Spotify Badge](https://img.shields.io/badge/-nkhandwe-1ed760?logo=Spotify&logoColor=white&link=https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b/)](https://open.spotify.com/user/88pbsh9j785gn4jpps10xat7c?si=accbf9417fe34b1b)
-[![Google Meet](https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white)](https://meet.google.com/ovz-rnhu-wsa) -->
 
 
 ### ⚡ Languages and Frameworks:
@@ -61,7 +59,6 @@
 
 ### 🛠 Software and tools:
 <p>
-<!--   <a href="#"><img alt="" src=""></a> -->
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
@@ -94,46 +91,24 @@
 ### 🌐 Recent Website Projects:
 
 - [Unique Developers](https://uniquedevelopers.online/)- WordPress Development. </br>
-- [Yummy Curry](https://yummy-curry.com/) - WordPress Development. </br>
-- [Cash Loan Offer](https://cashloanoffer.in/) - WordPress Development. </br>
-- [Uzi Accounts ](https://uziaccounts.com/) - Wordpress Development. </br>
-- [Kracking Deals ](https://krackingdeals.com/) - WordPress Development With Woo Commerce Dropshipping Store.</br>
-- [Ameshh](https://ameshh.com/) - WordPress Development. </br>
-- [Anytime Grocery](https://anytimegrocery.in/) - Laravel Development. </br>
-- [Eazy Grocer](https://eazygrocer.in/) - Laravel Development. </br>
-- [Defaulter Satya SMM ](https://defaultersatyasmm.online/) - Laravel SMM (Social Media Marketing Panel) Script Development. </br>
-- [IFS Code Find ](https://ifscodefind.in/) - Bank IFSC Code Finder PHP Development. </br>
-- [Saqlaini Mart](https://saqlainimart.in/) -  Laravel Development. </br>
+
 
 ### ⚡ Recent Android Projects:
 
 - [Anytime Grocery Android App](https://play.google.com/store/apps/details?id=com.anytimegrocery.shop)- Android App With PHP Rest API. </br>
-- [Health &amp; Fitness 30 Days Fitness Challenge](https://play.google.com/store/apps/details?id=com.nktech.healthmanager) - Android App With Java. </br>
-- [Pro Video Editor](https://play.google.com/store/apps/details?id=com.nktech.allinonevideoeditor) - Android App With Java. </br>
-- [Share Droid](https://play.google.com/store/apps/details?id=com.shareit.uniquedevelopers) - Android App With Java. </br>
-- [Device Info ](https://play.google.com/store/apps/details?id=com.droidloverx.deviceinfo) - Android App With Java. </br>
-- [Yummy Curry](https://play.google.com/store/apps/details?id=com.yummy.curry) - Android App With Java.  </br>
-- [Photo Recover App For Android](https://play.google.com/store/apps/details?id=com.uniquedevelopers.recoverphotos) - Android App With Java.  </br>
-- [Unique WallSplash Pro](https://play.google.com/store/apps/details?id=wallsplash.droidloverx.com) - Android App With Java & Unsplash API.  </br>
-- [Dashlane](https://play.google.com/store/apps/details?id=com.nktech.dashlane) - Android Game Build With Buildbox.  </br>
-- [Saqlaini Mart Android App](https://play.google.com/store/apps/details?id=saqlainimart.user.shop)- Android App With PHP Rest API. </br>
 
-## 💻 GitHub Stats
+
+
 <p align="center">
   <a href="#"><img alt="Narendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nkhandwe&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
   <a href="#"><img alt="Narendra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhandwe&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
-<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+ 
 </p>
 
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=nkhandwe&hide_border=true&theme=dark"></a></p>
-</details>
+  </p>
+
 
 <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=nkhandwe"></h3>
 <a href="https://buymeacoffee.com/nkhandwe"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-<img align="right" src="https://gpvc.arturio.dev/nkhandwe">
-<!-- Place this tag where you want the button to render. -->
-<!-- <a class="github-button" href="https://github.com/sponsors/nkhandwe" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @nkhandwe on GitHub">Sponsor</a> -->
-
